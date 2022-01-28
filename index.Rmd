@@ -1,6 +1,6 @@
 ---
 title: "Testbok"
-author: "SRK"
+author: "SRK_LAAD"
 site: bookdown::bookdown_site
 documentclass: book
 output:
